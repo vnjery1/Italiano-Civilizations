@@ -211,3 +211,248 @@
 
     "cities":[],
   },
+  {
+    "name":"Lombardy",
+    "leaderName":"Guido da Landriano",
+    "adjective":["Lombard"],
+    "startBias":["None"],
+    "preferredVictoryType":"Economy, Domination",
+    "favoredReligion":"Catholicism",
+
+    "startIntroPart1":"Hail, Guido da Landriano, hero of the Battle of Legnano! Rising to become the consul of Milan, you were imprisoned by the coward German Emperor Barbarossa after the Battle of Siziano. This imprisonment could not contain your warrior spirit and love for your people when in 1167 you signed the Oath of Pontida, forging the Lombard League with Lodi, Piacenza, Parma, and Ferrara. Supported by that most holy Vicar of Christ on Earth, Pope Alexander III, you expanded the League and led the struggle to free your people from the Hohenstaufen yoke, culminating in glorious victory at the Battle of Legnano and the signing of the Peace of Constance.",
+    "startIntroPart2":"Great condottiero, the people of Lombardy once again clamour for freedom from the will of foreign powers. Your subjects fly your banners in face of the enemy. Will you assemble the cities of the ancient League? Can you once more forge an alliance to defend your lands? Can you build a civilization that will stand the test of time?",
+    
+    "introduction":"Who is this that walks my halls? Welcome, stranger – come, let us make a meeting and discuss your communes joining my League.",
+    "neutralHello":"",
+    "neutralLetsHearIt":"",
+    "neutralNo":"",
+    "neutralYes":"",
+    "hateHello":"",
+    "hateLetsHearIt":"",
+    "hateNo":"",
+    "hateYes":"",
+
+    "declaringWar":"",
+    "attacked":"",
+    "afterPeace":"",
+    "defeated":"You may have struck me down on the field today, but the great communes you inherit will never accept your rule, and shall one day throw off your yoke.",
+    "tradeRequest":"",
+
+    "outerColor":[0,0,0],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"Oath of Pontida",
+    "uniques":["When at war, land military units can be purchased at cost of City's strength, disappearing upon peace declaration and converting XP to Gold. Trade routes increase origin City's strength and Production of military units."],
+
+    "cities":[],
+  },
+  {
+    "name":"Tuscany",
+    "leaderName":"Lorenzo de Medici",
+    "adjective":["Tuscan"],
+    "startBias":["None"],
+    "preferredVictoryType":"Culture, Science",
+    "favoredReligion":"Catholicism",
+
+    "startIntroPart1":"The people of Tuscany welcome you Lorenzo de' Medici. You rule the Florentine Republic. It was your skilled diplomacy that brought about an unprecedented peace not only for Tuscany, but for all of Italy, a peace that would last throughout your rule. Your tact pacified your enemies and forced them into reluctant submission. But perhaps most significant of all was your generosity and patronage of the arts, pushing Tuscany into the forefront of the cultural world. In this golden age that you wrought Tuscany left an indelible mark, with people and works of art whose names are known throughout the globe.",
+    "startIntroPart2":"Lorenzo the Magnificent, Tuscany longs to return to her greatest heights. Will you strive to bring about peace once again? Will you usher in a new Renaissance? Can you build a civilization that stands the test of time?",
+    
+    "introduction":"Hello stranger; I am Lorenzo de' Medici. How are you enjoying Florence?",
+    "neutralHello":"",
+    "neutralLetsHearIt":"",
+    "neutralNo":"",
+    "neutralYes":"",
+    "hateHello":"",
+    "hateLetsHearIt":"",
+    "hateNo":"",
+    "hateYes":"",
+
+    "declaringWar":"",
+    "attacked":"",
+    "afterPeace":"",
+    "defeated":"Tuscany stands in ruins. I hope you're satisfied.",
+    "tradeRequest":"",
+
+    "outerColor":[0,0,0],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"Cradle of the Renaissance",
+    "uniques":["Receive a Great Person of the appropriate type when Buildings with Great Work slots are first acquired in the Capital. When a World Wonder is built in the Capital, receive a boost to your next Golden Age."],
+
+    "cities":[],
+  },
+  {
+    "name":"Genoa",
+    "leaderName":"Simone Boccanegra",
+    "adjective":["Genoan"],
+    "startBias":["Coast"],
+    "preferredVictoryType":"Economy",
+    "favoredReligion":"Catholicism",
+
+    "startIntroPart1":"Live long and prosper, Simone Boccanegra, Doge of mighty Genoa! Your reign was marked by an intense cloud of intrigue and subterfuge. Genoa, one of the contending powers for domination of the mediterranean, was ruled by an aristocratic elite. Elected doge, you disposed of the established upper class in a revolutionary upheaval that would change the political landscape of Genoa forever. Entrenched in a long war with Venice, that would eventually be lost, you fought off would-be assassins and rivals for five long years before being forced to resign. But your successors were not as tenacious as you, and soon enough you were back in power. Your rule would last another seven years before a poisoning attempt was finally successful.",
+    "startIntroPart2":"Revolutionary doge, your people are once again surrounded by enemies plotting their demise. Will you see through the ploys of your many rivals, and once again establish Genoa as a force to be reckoned with? Will you seize control of the seas, and establish dominance over the trade routes of this new world? Can you build a civilization that will stand the test of time?",
+    
+    "introduction":"Welcome to Genoa, traveller. Would you walk with a tired doge? I always come down to the port in the morning light. See how the sea and stars shine brightly?",
+    "neutralHello":"",
+    "neutralLetsHearIt":"",
+    "neutralNo":"",
+    "neutralYes":"",
+    "hateHello":"",
+    "hateLetsHearIt":"",
+    "hateNo":"",
+    "hateYes":"",
+
+    "declaringWar":"",
+    "attacked":"",
+    "afterPeace":"",
+    "defeated":"I ended up right where I started... just a man with a sword.",
+    "tradeRequest":"",
+
+    "outerColor":[0,0,0],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"Patron of the Renaissance",
+    "uniques":["Can create Colonies, connecting coastal resources outside your territory to your trade network."],
+
+    "cities":[],
+  },
+  {
+    "name":"Two Sicilies",
+    "leaderName":"Ferdinand I",
+    "adjective":["Sicilian","Neapolitan"],
+    "startBias":["Coast"],
+    "preferredVictoryType":"Domination",
+    "favoredReligion":"Catholicism",
+
+    "startIntroPart1":"Greetings to you, Ferdinand I, King of the Two Sicilies and of the illustrious city of Naples. The Two Sicilies was born a product of the union of the ancient Kingdoms of Naples and Sicily. A marvel of naval and mercantile reputation, the Kingdom of the Two Sicilies became one of the industrial-maritime centres of Italy. The Kingdom's life, however, would be short-lived. In 1860, the Two Sicilies was conquered by the belligerent Sardinia, and the ancient capitals at Palermo and Naples would become amongst the newly formed Italy's most prized possessions.",
+    "startIntroPart2":"Noble Ferdinand, you are charged with the duty of procuring for the Two Sicilies the sovereignty to which it is allotted by nature. Can you make Naples and Palermo once more the centre of maritime and mercantile prowess? Can you deliver your people safety and prosperity to the envy of the world? Can you build a civilization that can stand the test of time?",
+    
+    "introduction":"Was I expecting you? I am Ferdinand I of the Two Sicilies. Now, don't stand there with that ridiculous look on your face. Stand up straight and introduce yourself to me.",
+    "neutralHello":"",
+    "neutralLetsHearIt":"",
+    "neutralNo":"",
+    "neutralYes":"",
+    "hateHello":"",
+    "hateLetsHearIt":"",
+    "hateNo":"",
+    "hateYes":"",
+
+    "declaringWar":"",
+    "attacked":"",
+    "afterPeace":"",
+    "defeated":"It should surprise you to know that this is not my first dethroning, and indeed it shall not be my last.",
+    "tradeRequest":"",
+
+    "outerColor":[0,0,0],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"Pride of Bourbon Sicily",
+    "uniques":["Naval Units upgrade automatically when a new Technology is discovered. Receive a free Naval Unit when a Cargo Ship is built."],
+
+    "cities":[],
+  },
+  {
+    "name":"Sardinia-Piedmont",
+    "leaderName":"Victor Emmanuel II",
+    "adjective":["Sardinian","Piemonte"],
+    "startBias":[""],
+    "preferredVictoryType":"",
+    "favoredReligion":"",
+
+    "startIntroPart1":"",
+    "startIntroPart2":"",
+    
+    "introduction":"",
+    "neutralHello":"",
+    "neutralLetsHearIt":"",
+    "neutralNo":"",
+    "neutralYes":"",
+    "hateHello":"",
+    "hateLetsHearIt":"",
+    "hateNo":"",
+    "hateYes":"",
+
+    "declaringWar":"",
+    "attacked":"",
+    "afterPeace":"",
+    "defeated":"",
+    "tradeRequest":"",
+
+    "outerColor":[0,0,0],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"",
+    "uniques":[],
+
+    "cities":[],
+  },
+  {
+    "name":"Template",
+    "leaderName":"",
+    "adjective":[""],
+    "startBias":[""],
+    "preferredVictoryType":"",
+    "favoredReligion":"",
+
+    "startIntroPart1":"",
+    "startIntroPart2":"",
+    
+    "introduction":"",
+    "neutralHello":"",
+    "neutralLetsHearIt":"",
+    "neutralNo":"",
+    "neutralYes":"",
+    "hateHello":"",
+    "hateLetsHearIt":"",
+    "hateNo":"",
+    "hateYes":"",
+
+    "declaringWar":"",
+    "attacked":"",
+    "afterPeace":"",
+    "defeated":"",
+    "tradeRequest":"",
+
+    "outerColor":[0,0,0],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"",
+    "uniques":[],
+
+    "cities":[],
+  },
+  {
+    "name":"Template",
+    "leaderName":"",
+    "adjective":[""],
+    "startBias":[""],
+    "preferredVictoryType":"",
+    "favoredReligion":"",
+
+    "startIntroPart1":"",
+    "startIntroPart2":"",
+    
+    "introduction":"",
+    "neutralHello":"",
+    "neutralLetsHearIt":"",
+    "neutralNo":"",
+    "neutralYes":"",
+    "hateHello":"",
+    "hateLetsHearIt":"",
+    "hateNo":"",
+    "hateYes":"",
+
+    "declaringWar":"",
+    "attacked":"",
+    "afterPeace":"",
+    "defeated":"",
+    "tradeRequest":"",
+
+    "outerColor":[0,0,0],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"",
+    "uniques":[],
+
+    "cities":[],
+  },

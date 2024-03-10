@@ -1,0 +1,185 @@
+\\Template
+{
+    "name":"Template",
+    "style":"",
+    "leaderName":"",
+    "adjective":[""],
+    "startBias":[""],
+    "preferredVictoryType":"",
+    "favoredReligion":"",
+
+    "startIntroPart1":"",
+    "startIntroPart2":"",
+    
+    "introduction":"",
+    "neutralHello":"",
+    "neutralLetsHearIt":"",
+    "neutralNo":"",
+    "neutralYes":"",
+    "hateHello":"",
+    "hateLetsHearIt":"",
+    "hateNo":"",
+    "hateYes":"",
+
+    "declaringWar":"",
+    "attacked":"",
+    "afterPeace":"",
+    "defeated":"",
+    "tradeRequest":"",
+
+    "outerColor":[0,0,0],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"",
+    "uniques":[],
+
+    "cities":[],
+  },
+\\Northern
+  {
+    "name":"Milan",
+    "style":"Northern Italy",
+    "leaderName":"Gian Galeazzo Visconti",
+    "adjective":["Milanese"],
+    "startBias":["None"],
+    "preferredVictoryType":"Cultural",
+    "favoredReligion":"Catholicism",
+
+    "startIntroPart1":"Prestigious lord of the noble House of Visconti, the loyal denizens of the great and ancient Milan speak your praises. You ruled the city of Milan at the dawning of the Renaissance, and elevated its status from a mere Lordship to an esteemed Duchy. A great patron of arts and home to immeasurable wealth, Milan would exist as one of the cultural centres of Italy for some 200 years, and its legacy for countless more.",
+    "startIntroPart2":"Noble Lord, the great city of Milan beckons your leadership to bring upon her a great wealth of coin and culture. Can you fill her ancient vaults with gold and art beyond comparison? Can you build a civilization that can stand the test of time?",
+    
+    "introduction":"Greetings. I am Gian Galeazzo, Lord of Visconti Milan. From what wanting realm do you come?",
+    "neutralHello":"",
+    "neutralLetsHearIt":"",
+    "neutralNo":"",
+    "neutralYes":"",
+    "hateHello":"",
+    "hateLetsHearIt":"",
+    "hateNo":"",
+    "hateYes":"",
+
+    "declaringWar":"",
+    "attacked":"",
+    "afterPeace":"",
+    "defeated":"Fine then. Take my great wealth. But know you will never be able to spend it as wisely as I.",
+    "tradeRequest":"",
+
+    "outerColor":[0,0,0],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"House of Visconti",
+    "uniques":["Friendly and Allied City-States reduce the cost of purchasing items with Gold Gold (up to 30%). During war, City-State Influence degrades 20% slower."],
+
+    "cities":["Milan","Parma","Brescia","Bergamo","Como","Crema","Bologna","Verona","Padua"],
+  },
+  {
+    "name":"Venice",
+    "style":"Northern Italy",
+    "leaderName":"Enrico Dandolo",
+    "adjective":["Venetian"],
+    "startBias":["Coast"],
+    "preferredVictoryType":"Diplomatic",
+    "favoredReligion":"Catholicism",
+
+    "startIntroPart1":"Greetings, most astute Doge Enrico Dandolo of Venice, master of statecraft and shrewd negotiator. Although you rose to power late in life, old age did little to slow your cunning or ambition, as you deftly managed the bustling commercial center of Venice during a time of great instability. In aligning yourself with the Fourth Crusade, you carefully gained a strategic advantage and used the Crusaders to reacquire lost territory for Venice. Your role in guiding the Crusaders during the sacking of Constantinople led to an even greater expansion of your power, and secured your legacy throughout history.",
+    "startIntroPart2":"Most insightful and cunning Doge, Venice once again requires the service of a skilled leader, one who can bring the republic back to the forefront of world affairs. Can you establish your nation through careful trade, or will you work to conquer your enemies through diplomacy? Can you build a civilization that will stand the test of time?",
+    
+    "introduction":"Welcome to Venice. I am Doge Enrico Dandolo.",
+    "neutralHello":"",
+    "neutralLetsHearIt":"",
+    "neutralNo":"",
+    "neutralYes":"",
+    "hateHello":"",
+    "hateLetsHearIt":"",
+    "hateNo":"",
+    "hateYes":"",
+
+    "declaringWar":"",
+    "attacked":"",
+    "afterPeace":"",
+    "defeated":"A wrong calculation, on my part.",
+    "tradeRequest":"",
+
+    "outerColor":[0,0,0],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"",
+    "uniques":[],
+
+    "cities":["Venice","Treviso","Aquilegia","Nori","Ragusa","],
+  },
+  {
+    "name":"Verona",
+    "style":"Northern Italy",
+    "leaderName":"Ezzelino de Romano III",
+    "adjective":[""],
+    "startBias":[""],
+    "preferredVictoryType":"",
+    "favoredReligion":"",
+
+    "startIntroPart1":"",
+    "startIntroPart2":"",
+    
+    "introduction":"",
+    "neutralHello":"",
+    "neutralLetsHearIt":"",
+    "neutralNo":"",
+    "neutralYes":"",
+    "hateHello":"",
+    "hateLetsHearIt":"",
+    "hateNo":"",
+    "hateYes":"",
+
+    "declaringWar":"",
+    "attacked":"",
+    "afterPeace":"",
+    "defeated":"",
+    "tradeRequest":"",
+
+    "outerColor":[0,0,0],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"",
+    "uniques":[],
+
+    "cities":["Verona","Padua"],
+  },
+  {
+    "name":"Monaco",
+    "style":"Northern Italy",
+    "leaderName":"Albert I",
+    "adjective":["Monégasque"],
+    "startBias":["Coast"],
+    "preferredVictoryType":"Cultural",
+    "favoredReligion":"Catholicism",
+
+    "startIntroPart1":"Albert I, Prince of Monaco, welcome. Monaco is the land of your forefathers - the ancient and noble House of Grimaldi. For 700 years, the Grimaldis have ruled over the lands of Monaco with a shrewd business acumen and a stalwart grip on their sovereignty. Under your reign, Monaco would be ushered into the modern age of constitutions and republics. But through your careful reforms, the powers of the great Grimaldis would not diminish but remain, and it would do so well into the 21st century.",
+    "startIntroPart2":"Noble Prince, the great wealth of your House leaves Monaco in a position to cultivate a haven for liberty and prosperity, should you only be there to guide it. Can you put this great wealth to the betterment of your people? Can you ensure their happiness and their compliance? Can you build a civilization that can stand the test of time?",
+    
+    "introduction":"Welcome to the Prince's Palace. I am Albert I, Prince of Monaco. I hope you will stay and enjoy the freedoms that Monaco has to offer.",
+    "neutralHello":"",
+    "neutralLetsHearIt":"",
+    "neutralNo":"",
+    "neutralYes":"",
+    "hateHello":"",
+    "hateLetsHearIt":"",
+    "hateNo":"",
+    "hateYes":"",
+
+    "declaringWar":"",
+    "attacked":"",
+    "afterPeace":"",
+    "defeated":"It is a troubling world when the likes of Monaco cannot live in peace.",
+    "tradeRequest":"",
+
+    "outerColor":[0,0,0],
+    "innerColor":[0,0,0],
+
+    "uniqueName":"Wealth of the Grimaldis",
+    "uniques":["Capital yields +2 Culture per Gold Building that is present in all cities. Excess Happiness converts a percentage of Culture into Gold."],
+
+    "cities":["Monaco-Ville","Monte Carlo","La Condamine","Larvotto","Fontveille","Saint Michel","Moneghetti","La Colle","Les Révoires","La Rousse","Port Hercule","Saint Roman","Les Salines","Les Plages","L'Hermitage","Port de Fontvielle","Terre-Plein du Larvotto","Quartier du Port","Carriéres-Malbousquet","Le Portier"],
+    "spies":["Charles","Jules","Titta","Tito","Raoul","Sarah","Grace","Charlene","Rene","Esther","Joseph-Henri","Ranier"],
+  },
+\\Central
+\\Southern

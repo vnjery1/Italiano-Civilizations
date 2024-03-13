@@ -1,0 +1,18 @@
+[
+  //Northern Italy
+  {
+		"name": "Gatling Gun",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 20,
+		"rangedStrength": 20,
+		"cost": 160,
+		"requiredTech": "Economics",
+		"upgradesTo": "Machine Gun",
+    "uniques":["May attack twice per turn","[33]% Combet Strength <vs [Siege] units>"],
+		"attackSound": "machinegun"
+	},
+  //Central Italy
+  //Southern Italy
+]

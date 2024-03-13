@@ -2,9 +2,9 @@
   //Northern Italy
   {
 		"name": "Paluzzo",
-    "replaces":"Bank",
+                "replaces":"Bank",
 		"uniquesTo":"Milan",
-    "strength":4,
+                 "strength":4,
 		"greatPersonPoints": {"Great Merchant": 10% [Gold]},
 		 "uniques": ["Grants double [Gold] to City Plunder if the City is captured"],
 		"requiredTech": "Banking",

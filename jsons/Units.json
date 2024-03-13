@@ -10,8 +10,23 @@
 		"cost": 160,
 		"requiredTech": "Economics",
 		"upgradesTo": "Machine Gun",
-    "uniques":["May attack twice per turn","[33]% Combet Strength <vs [Siege] units>"],
+                "uniques":["May attack twice per turn","[33]% Combet Strength <vs [Siege] units>"],
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "Grand Galleass",
+		"unitType": "Ranged Water",
+		"replaces": "Galleass",
+		"uniquesTo": "Venice",
+		"movement": 3,
+		"strength": 25,
+		"rangedStrength": 20,
+		"cost": 110,
+		"requiredTech": "Compass",
+		"obsoleteTech": "Navigation",
+		"upgradesTo": "Frigate",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"attackSound": "arrow"
 	},
   //Central Italy
   //Southern Italy

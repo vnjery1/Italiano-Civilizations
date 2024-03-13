@@ -1,3 +1,4 @@
+[
 \\Template
 {
     "name":"Template",
@@ -64,8 +65,8 @@
     "defeated":"Fine then. Take my great wealth. But know you will never be able to spend it as wisely as I.",
     "tradeRequest":"",
 
-    "outerColor":[0,0,0],
-    "innerColor":[0,0,0],
+    "outerColor":[120,134,20],
+    "innerColor":[136,172,186],
 
     "uniqueName":"House of Visconti",
     "uniques":["Friendly and Allied City-States reduce the cost of purchasing items with Gold Gold (up to 30%). During war, City-State Influence degrades 20% slower."],
@@ -101,7 +102,7 @@
     "tradeRequest":"",
 
     "outerColor":[0,0,0],
-    "innerColor":[0,0,0],
+    "innerColor":[255,255,255],
 
     "uniqueName":"",
     "uniques":[],
@@ -136,8 +137,8 @@
     "defeated":"",
     "tradeRequest":"",
 
-    "outerColor":[0,0,0],
-    "innerColor":[0,0,0],
+    "outerColor":[61,95,65],
+    "innerColor":[243,230,97],
 
     "uniqueName":"",
     "uniques":[],
@@ -182,4 +183,41 @@
     "spies":["Charles","Jules","Titta","Tito","Raoul","Sarah","Grace","Charlene","Rene","Esther","Joseph-Henri","Ranier"],
   },
 \\Central
+    {
+    "name":"Ragusa",
+    "style":"Central Italy",
+    "leaderName":"Nicolò Vito di Gozzi (Nikola Gučetić)",
+    "adjective":["Ragusan"],
+    "startBias":["Coast"],
+    "preferredVictoryType":"Diplomacy",
+    "favoredReligion":"Catholicism",
+
+    "startIntroPart1":"Most esteemed Nicolò Vito di Gozze, Rector of the proud Republic of Ragusa, welcome to this brave new world. The city of Ragusa has stood its ground for centuries against the major powers of the world, navigating the eternal and complex whirl of diplomatic alliances and has skillfully avoiding conflict after conflict. With cunning and stubbornness your empire - though modest in size - has bested those far larger in regards to trade, culture and diplomacy. The intelligence and security network launched by your predecessors, strecthing all across the world has so far both kept you safe and fostered prosperity. With your noble devotion to the causes of the Republic, this may be only the beginning.",
+    "startIntroPart2":"The time has come to once again fight for liberty; liberty that can not be sold for all the gold in the world. Will you manage the affairs of Ragusa as if you have no private interests? Will you build a civilization that stands the test of time?",
+    
+    "introduction":"You stand before a mere servant of the Republic of Ragusa, and this proud servant is Rector Nicolò Vito di Gozze - I humbly welcome you. Tell me, stranger, are you here to trade? I'll gladly accept your deepest and darkest secrets as payment.",
+    "neutralHello":"",
+    "neutralLetsHearIt":"",
+    "neutralNo":"",
+    "neutralYes":"",
+    "hateHello":"",
+    "hateLetsHearIt":"",
+    "hateNo":"",
+    "hateYes":"",
+
+    "declaringWar":"",
+    "attacked":"",
+    "afterPeace":"",
+    "defeated":"At least we outlived Venice, right? Tell me we outlived Venice, please. Please!",
+    "tradeRequest":"",
+
+    "outerColor":[201,166,98],
+    "innerColor":[133,36,10],
+
+    "uniqueName":"Pearl of the Adriatic",
+    "unique":["Embassies, Spies and Diplomats provide Intelligence, which can be expended for bonuses. The latter two also redirect points toward a random Great Person to Ragusa each turn when in foreign Cities."],
+
+    "cities":["Ragusa","Slano","Babino Polje","Sion","Lastovo","Cavtat"],
+  },
 \\Southern
+]

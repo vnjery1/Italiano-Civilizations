@@ -28,6 +28,20 @@
 		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
 		"attackSound": "arrow"
 	},
+	{
+		"name": "Quattuorviginti",
+		"unitType": "Sword",
+		"replaces": "Longswordman",
+		"uniquesTo": "Verona",
+		"movement": 2,
+		"strength": 24,
+		"cost": 110,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
   //Central Italy
   //Southern Italy
 ]
